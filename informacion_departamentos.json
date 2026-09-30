@@ -1,0 +1,1317 @@
+{
+  "_instrucciones": "Archivo editable para la información del mapa. Modifica valores dentro de departments. Conserva comillas, comas y corchetes. fields usa pares [\"Campo\", \"Dato\"]. provinces y people son listas de textos. Para crear preguntas nuevas de un campo adicional, usa el mismo nombre de campo en al menos cinco territorios con cuatro respuestas incorrectas distintas. other solo se muestra como información adicional.",
+  "version": 1,
+  "departments": {
+    "AMAZONAS": {
+      "title": "Amazonas",
+      "fields": [
+        [
+          "Capital",
+          "Chachapoyas"
+        ],
+        [
+          "Aniversario",
+          "5 de septiembre de 1538"
+        ],
+        [
+          "Fundador",
+          "Alonso de Alvarado"
+        ],
+        [
+          "Antiguamente nombrada",
+          "San Juan de la Frontera de los Chachapoyas."
+        ],
+        [
+          "Altitud",
+          "2,335 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Kuélap"
+        ],
+        [
+          "Número de provincias",
+          "7"
+        ]
+      ],
+      "provinces": [
+        "Bagua - Bagua",
+        "Bongará - Jumbilla",
+        "Chachapoyas - Chachapoyas",
+        "Condorcanqui - Santa María de Nieva",
+        "Luya - Lámud",
+        "Rodríguez de Mendoza - Mendoza (San Nicolás)",
+        "Utcubamba - Bagua Grande"
+      ],
+      "people": [
+        "• Toribio Rodríguez de Mendoza (1750-1825): Sacerdote y educador, precursor de la independencia del Perú y rector del [Real Convictorio de San Carlos].",
+        "• José Braulio Del Campo Redondo (1783-1837): Político y prócer de la independencia, quien fue diputado y vicepresidente del Congreso Constituyente de 1822.",
+        "• Margarito Machacuay (1964-2020): Conocido popularmente como el \"Hombre más alto del Perú\", originario de la provincia de Bagua, con una estatura de 2.26 metros.",
+        "• Absalón Montoya (1887-1961): Destacado pintor indigenista y educador nacido en Chachapoyas, cuyas obras retrataron la vida y los paisajes andinos y amazónicos.",
+        "• José del Carmen Marín (1899-1980): Militar y educador nacido en Luya, fundador del Centro de Altos Estudios Militares (CAEM)."
+      ],
+      "other": []
+    },
+    "ANCASH": {
+      "title": "Áncash",
+      "fields": [
+        [
+          "Capital",
+          "Huaraz"
+        ],
+        [
+          "Aniversario",
+          "20 de enero de 1574"
+        ],
+        [
+          "Fundador",
+          "Alonso de Santoyo y Valverde"
+        ],
+        [
+          "Antiguamente nombrada",
+          "San Sebastián de Guarás"
+        ],
+        [
+          "Altitud",
+          "3091 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Chavín de Huántar"
+        ],
+        [
+          "Número de provincias",
+          "20"
+        ]
+      ],
+      "provinces": [
+        "Aija — Aija",
+        "Antonio Raimondi — Llamellín",
+        "Asunción — Chacas",
+        "Bolognesi — Chiquián",
+        "Carhuaz — Carhuaz",
+        "Carlos Fermín Fitzcarrald — San Luis",
+        "Casma — Casma",
+        "Corongo — Corongo",
+        "Huaraz — Huaraz",
+        "Huari — Huari",
+        "Huarmey — Huarmey",
+        "Huaylas — Caraz",
+        "Mariscal Luzuriaga — Piscobamba",
+        "Ocros — Ocros",
+        "Pallasca — Cabana",
+        "Pomabamba — Pomabamba",
+        "Recuay — Recuay",
+        "Santa — Chimbote",
+        "Sihuas — Sihuas",
+        "Yungay — Yungay"
+      ],
+      "people": [
+        "• Santiago Antúnez de Mayolo: Ingeniero, físico y matemático nacido en Huacllán (Provincia de Aija) en 1887, reconocido por postular la existencia del neutrón antes de su descubrimiento oficial.",
+        "• Óscar Colchado Lucio: Destacado poeta y narrador nacido en Huallanca (Provincia de Bolognesi) en 1947, creador del famoso personaje infantil Cholito.",
+        "• Pastorita Huaracina (María Alvarado Trujillo): Famosa cantante de música andina y exponente del folclore ancashino, nacida en Huaraz en 1930.",
+        "• Carlos Fermín Fitzcarrald: Célebre comerciante y explorador cauchero nacido en San Luis (Provincia de Huari) en 1862, conocido por sus exploraciones en la amazonía peruana.",
+        "• Jacinto Palacios Zaragoza: Pionero y compositor del canto andino, nacido en el Callejón de Huaylas en 1900."
+      ],
+      "other": []
+    },
+    "APURIMAC": {
+      "title": "Apurímac",
+      "fields": [
+        [
+          "Capital",
+          "Abancay"
+        ],
+        [
+          "Aniversario",
+          "3 de noviembre de 1573"
+        ],
+        [
+          "Fundador",
+          "Nicolás Ruiz de Estrada"
+        ],
+        [
+          "Antiguamente nombrada",
+          "Villa de Santiago de los Reyes"
+        ],
+        [
+          "Altitud",
+          "2378 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Piedra de Saywite / Sóndor"
+        ],
+        [
+          "Número de provincias",
+          "7"
+        ]
+      ],
+      "provinces": [
+        "Abancay: Abancay",
+        "Andahuaylas: Andahuaylas",
+        "Antabamba: Antabamba",
+        "Aymaraes: Chalhuanca (o Aymaraes)",
+        "Chincheros: Chincheros",
+        "Cotabambas: Tambobamba",
+        "Grau: Chuquibambilla"
+      ],
+      "people": [
+        "• José María Arguedas: Escritor y antropólogo nacido en Andahuailas, considerado uno de los máximos exponentes de la narrativa indigenista del Perú.",
+        "• Micaela Bastidas: Heroína fundamental de la independencia hispanoamericana, nacida en el distrito de Tamburco (Abancay), esposa y consejera de Túpac Amaru II.",
+        "• Chabuca Granda: Célebre cantautora y folklorista peruana (autora de La flor de la canela), nacida en el distrito de Cotabamba.",
+        "• Juan de Espinosa Medrano (El Lunarejo): Destacado intelectual, escritor, teólogo y orador del periodo virreinal, nacido en Calcahuccho (Aymaraes).",
+        "• David Samanez Ocampo y Sobrino: Político y hacendado nacido en Huancarama (Andahuailas), quien ejerció como presidente de la Junta de Gobierno del Perú en 1931."
+      ],
+      "other": []
+    },
+    "AREQUIPA": {
+      "title": "Arequipa",
+      "fields": [
+        [
+          "Capital",
+          "Arequipa"
+        ],
+        [
+          "Aniversario",
+          "15 de agosto de 1540"
+        ],
+        [
+          "Fundador",
+          "Garci Manuel de Carbajal"
+        ],
+        [
+          "Antiguamente nombrada",
+          "Villa Hermosa de Nuestra Señora de la Asunta"
+        ],
+        [
+          "Altitud",
+          "2335 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Cultura Chuquibamba / Cultura Churajón"
+        ],
+        [
+          "Número de provincias",
+          "8"
+        ]
+      ],
+      "provinces": [
+        "Arequipa - Arequipa",
+        "Camaná – Camaná",
+        "Caravelí – Caravelí",
+        "Castilla – Aplao",
+        "Caylloma – Chivay",
+        "Condesuyos – Chuquibamba",
+        "Islay – Mollendo",
+        "La Unión – Cotahuasi"
+      ],
+      "people": [
+        "Literatura y Letras",
+        "• Mario Vargas Llosa: Reconocido escritor y Premio Nobel de Literatura 2010.",
+        "• Mariano Melgar: Poeta y mártir de la independencia peruana, precursor del romanticismo literario en el país.",
+        "• Augusto Aguirre Morales: Poeta y escritor modernista.",
+        "Política y Presidencias",
+        "• José Luis Bustamante y Rivero: Jurista, diplomático y Presidente del Perú entre 1945 y 1948, además de presidente de la Corte Internacional de Justicia.",
+        "• Nicolás de Piérola: Destacado político y dos veces presidente constitucional del Perú.",
+        "• Francisco García-Calderón Landa: Abogado, político y presidente provisional del Perú durante la Guerra del Pacífico.",
+        "Ciencia e Innovación",
+        "• Pedro Paulet: Ingeniero, científico y precursor de la astronáutica y los viajes espaciales.",
+        "• Mariano Eduardo de Rivero y Ustariz: Científico, geólogo y mineralogista de gran renombre en el siglo XIX."
+      ],
+      "other": []
+    },
+    "AYACUCHO": {
+      "title": "Ayacucho",
+      "fields": [
+        [
+          "Capital",
+          "Ayacucho"
+        ],
+        [
+          "Aniversario",
+          "25 de abril de 1540"
+        ],
+        [
+          "Fundador",
+          "Francisco Pizarro (a través de su teniente Vasco de Guevara)"
+        ],
+        [
+          "Antiguamente nombrada",
+          "San Juan de la Frontera de Huamanga"
+        ],
+        [
+          "Altitud",
+          "2761 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Cuevas de Pikimachay"
+        ],
+        [
+          "Número de provincias",
+          "11"
+        ]
+      ],
+      "provinces": [
+        "Cangallo – Cangallo",
+        "Huamanga – Ayacucho",
+        "Huanca Sancos – Huanca Sancos",
+        "Huanta – Huanta",
+        "La Mar – San Miguel",
+        "Lucanas – Puquio",
+        "Parinacochas – Coracora",
+        "Páucar del Sara Sara – Pausa",
+        "Sucre – Querobamba",
+        "Víctor Fajardo – Huancapi",
+        "Vilcashuamán – Vilcashuamán"
+      ],
+      "people": [
+        "• María Parado de Bellido (1761-1822): Heroína de la independencia nacional nacida en Huamanga, quien sacrificó su vida antes que delatar a los patriotas.",
+        "• Basilio Auqui (1750-1822): Líder emblemático de los morochucos y valiente prócer de la independencia, nacido en Cangallo.",
+        "• Ventura Ccalamaqui: Valerosa prócer ayacuchana que destacó en las luchas por la emancipación en Huamanga.",
+        "• Federico Kauffmann Doig (1928-2026): Destacado arqueólogo, historiador y investigador peruano con un profundo vínculo natal e intelectual con Huamanga.",
+        "• Javier Pulgar Vidal (1911-2003): Geógrafo notable nacido en Pataz pero vinculado estrechamente a la región, creador de la tesis de las ocho regiones naturales del Perú.",
+        "• José Matos Mar (1921-2015): Reconocido antropólogo y catedrático nacido en Ayacucho, referente en el estudio de la sociedad rural y el desborde popular."
+      ],
+      "other": []
+    },
+    "CAJAMARCA": {
+      "title": "Cajamarca",
+      "fields": [
+        [
+          "Capital",
+          "Cajamarca"
+        ],
+        [
+          "Aniversario",
+          "3 de enero de 1854 (Ramón Castilla) Reconoció y declaró como Departamento Cajamarca"
+        ],
+        [
+          "Fundador",
+          "Ramón Castilla, Toribio Casanova López, Pedro José Villanueva y Juan Antonio Egúsquiza"
+        ],
+        [
+          "Antiguamente nombrada",
+          "Caxamarca “Pueblo de espinas”, “Ciudad del descanso”"
+        ],
+        [
+          "Altitud",
+          "2750 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Cumbemayo / Kuntur Wasi"
+        ],
+        [
+          "Número de provincias",
+          "13"
+        ]
+      ],
+      "provinces": [
+        "Cajamarca – Cajamarca",
+        "Cajabamba – Cajabamba",
+        "Celendín – Celendín",
+        "Chota – Chota",
+        "Contumazá – Contumazá",
+        "Cutervo – Cutervo",
+        "Hualgayoc – Bambamarca",
+        "Jaén – Jaén",
+        "San Ignacio – San Ignacio",
+        "San Marcos – San Marcos (Pedro Gálvez)",
+        "San Miguel – San Miguel de Pallaques",
+        "San Pablo – San Pablo",
+        "Santa Cruz – Santa Cruz de Succhubamba"
+      ],
+      "people": [
+        "• José Gálvez Egúsquiza: Brillante político liberal y héroe del Combate del 2 de Mayo de 1866 en el Callao.",
+        "• Pedro Gálvez Egúsquiza: Político y hermano de José Gálvez, nacido en Cajamarca el 30 de abril de 1822, destacado defensor de las reformas liberales.",
+        "• Toribio Casanova: Abogado y político que lideró el levantamiento de 1854 para conseguir la creación del departamento de Cajamarca.",
+        "• Mariano Ibrico: Destacado filósofo, catedrático y ensayista peruano nacido en Cajamarca el 11 de abril de 1892.",
+        "• Andrés Zevallos de la Fuente: Pintor indigenista y escritor nacido en Contumazá, Cajamarca, en 1916, reconocido por plasmar la identidad andina.",
+        "• Manuel Octavio Revoredo Iglesias: Célebre aviador pionero de la aviación comercial y de alta montaña en el Perú, nacido en la hacienda La Chanta en 1897."
+      ],
+      "other": []
+    },
+    "CUSCO": {
+      "title": "Cusco",
+      "fields": [
+        [
+          "Capital",
+          "Cusco"
+        ],
+        [
+          "Aniversario",
+          "23 de marzo de 1534"
+        ],
+        [
+          "Fundador",
+          "Manco Cápac, Francisco Pizarro"
+        ],
+        [
+          "Antiguamente nombrada",
+          "Qosqo (o Qusqu) \"Ombligo del Mundo\", \"La muy noble, leal y fidelísima Gran Ciudad del Cuzco\""
+        ],
+        [
+          "Altitud",
+          "3400 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Machu Picchu / Sacsayhuamán"
+        ],
+        [
+          "Número de provincias",
+          "13"
+        ]
+      ],
+      "provinces": [
+        "Acomayo: Acomayo",
+        "Anta: Anta (o Izcuchaca)",
+        "Calca: Calca",
+        "Canas: Yanaoca",
+        "Canchis: Sicuani",
+        "Chumbivilcas: Santo Tomás",
+        "Cusco: Cusco",
+        "Espinar: Yauri",
+        "La Convención: Quillabamba",
+        "Paruro: Paruro",
+        "Paucartambo: Paucartambo",
+        "Quispicanchi: Urcos",
+        "Urubamba: Urubamba"
+      ],
+      "people": [
+        "Época Incaica",
+        "• Pachacútec: El noveno inca, gran estadista y organizador del Tahuantinsuyo, responsable de la gran expansión y diseño del Cusco como capital imperial.",
+        "• Túpac Yupanqui: Hijo de Pachacútec, décimo inca y notable conquistador que expandió los dominios del imperio hacia el sur y la costa.",
+        "Época Virreinal",
+        "• Inca Garcilaso de la Vega: Nacido en 1539, fue uno de los cronistas más importantes de América, autor de los Comentarios Reales de los Incas.",
+        "• Diego Quispe Tito: Nacido en 1611, fue el máximo exponente de la Escuela Cusqueña de pintura durante el siglo XVII.",
+        "Época Republicana y Contemporánea",
+        "• Valentín Paniagua Corazao: Abogado y político nacido en 1936, quien asumió la presidencia interina del Perú en el año 2000 para liderar la transición democrática."
+      ],
+      "other": []
+    },
+    "HUANCAVELICA": {
+      "title": "Huancavelica",
+      "fields": [
+        [
+          "Capital",
+          "Huancavelica"
+        ],
+        [
+          "Aniversario",
+          "4 de agosto de 1571"
+        ],
+        [
+          "Fundador",
+          "Francisco Álvarez de Toledo, ejecutada directamente por el alcalde mayor de minas Francisco de Angulo"
+        ],
+        [
+          "Antiguamente nombrada",
+          "Villa Rica de Oropesa"
+        ],
+        [
+          "Altitud",
+          "3660 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Uchkus Inkañan"
+        ],
+        [
+          "Número de provincias",
+          "7"
+        ]
+      ],
+      "provinces": [
+        "Acobamba - Acobamba",
+        "Angaraes - Lircay",
+        "Castrovirreyna - Castrovirreyna",
+        "Churcampa - Churcampa",
+        "Huancavelica - Huancavelica",
+        "Huaytará - Huaytará",
+        "Tayacaja - Pampas"
+      ],
+      "people": [
+        "• Daniel Hernández Morillo (1856–1932): Famoso pintor académico nacido en Salcabamba, provincia de Tayacaja. Fue el fundador y primer director de la Escuela Nacional de Bellas Artes del Perú.",
+        "• Celestino Manchego Muñoz (1887–1955): Abogado, político y héroe regional nacido en Castrovirreyna, destacado por su labor descentralista y defensa parlamentaria.",
+        "• Zein Zorrilla (1951): Escritor, docente y narrador, nacido en el departamento de Huancavelica, reconocido dentro de la pléyade de contadores de historias andinas contemporáneas.",
+        "• Luz Gina Gálvez Zárate: Arquitecto, poetisa y promotora cultural, nacida en Huancavelica, ganadora de galardones literarios regionales y expresidenta de la Asociación de Escritores Huancavelicanos."
+      ],
+      "other": []
+    },
+    "HUANUCO": {
+      "title": "Huánuco",
+      "fields": [
+        [
+          "Capital",
+          "Huánuco"
+        ],
+        [
+          "Aniversario",
+          "15 de agosto 1539"
+        ],
+        [
+          "Fundador",
+          "Gómez de Alvarado y Contreras"
+        ],
+        [
+          "Antiguamente nombrada",
+          "La Muy Noble y Muy Leal Ciudad de los Caballeros de León de Huánuco"
+        ],
+        [
+          "Altitud",
+          "1900 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Kotosh (Templo de las Manos Cruzadas)"
+        ],
+        [
+          "Número de provincias",
+          "11"
+        ]
+      ],
+      "provinces": [
+        "Ambo - Capital: Ambo",
+        "Dos de Mayo - Capital: La Unión",
+        "Huacaybamba - Capital: Huacaybamba",
+        "Huamalíes - Capital: Llata",
+        "Huánuco - Capital: Huánuco",
+        "Lauricocha - Capital: Jesús",
+        "Leoncio Prado - Capital: Tingo María",
+        "Marañón - Capital: Huacrachuco",
+        "Pachitea - Capital: Panao",
+        "Puerto Inca - Capital: Puerto Inca",
+        "Yarowilca - Capital: Chavinillo"
+      ],
+      "people": [
+        "Héroes y Precursores",
+        "• Leoncio Prado Gutiérrez: Famoso marino y militar peruano, héroe de la Guerra del Pacífico, nacido el 24 de agosto de 1853.",
+        "• Juan José Crespo y Castillo: Líder de la rebelión independentista de Huánuco del 22 de febrero de 1812.",
+        "Literatura y Letras",
+        "• Amarilis: Seudónimo de la poetisa colonial nacida en León de Huánuco en 1594, autora de la célebre Epístola de Belardo a Lope de Vega.",
+        "• Javier Pulgar Vidal: Importante geógrafo y sabio peruano, creador de la tesis de las ocho regiones naturales del Perú.",
+        "Ciencia, Medicina y Educación",
+        "• Hermilio Valdizán Medrano: Destacado médico psiquiatra e investigador nacido en 1885, pionero de la salud mental en el país.",
+        "• Mariano Dámaso Beraún: Renombrado médico y educador que aportó significativamente a la salud pública y la ciencia en la región"
+      ],
+      "other": []
+    },
+    "ICA": {
+      "title": "Ica",
+      "fields": [
+        [
+          "Capital",
+          "Ica"
+        ],
+        [
+          "Aniversario",
+          "17 de junio de 1563"
+        ],
+        [
+          "Fundador",
+          "Jerónimo Luis de Cabrera y Toledo"
+        ],
+        [
+          "Antiguamente nombrada",
+          "Villa de Valverde del Valle de Ica, \tSan Jerónimo de Ica"
+        ],
+        [
+          "Altitud",
+          "406 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Líneas de Nasca / Cultura Paracas"
+        ],
+        [
+          "Número de provincias",
+          "5"
+        ]
+      ],
+      "provinces": [
+        "Chincha — Capital: Chincha Alta",
+        "Ica — Capital: Ica",
+        "Nazca (o Nasca) — Capital: Nazca",
+        "Palpa — Capital: Palpa",
+        "Pisco — Capital: Pisco",
+        "Personajes",
+        "Abraham Valdelomar (1888-1919): Famoso escritor, poeta y periodista, considerado uno de los cuentistas más importantes del país y creador de la célebre obra El caballero Carmelo.",
+        "José de la Torre Ugarte (1786-1831): Abogado y militar, recordado por ser el autor de la letra del Himno Nacional del Perú.",
+        "Sérvulo Gutiérrez (1914-1961): Pintor y poeta bohemio, uno de los máximos exponentes de la plástica expresionista en el Perú.",
+        "Domingo Elías Carbajo (1805-1867): Político, empresario y agricultor que llegó a ser Presidente del Perú durante el siglo XIX.",
+        "Antonia Moreno de Cáceres (1848-1916): Heroína de la resistencia peruana durante la Guerra del Pacífico y esposa del Mariscal Andrés Avelino Cáceres.",
+        "Deportes y Actualidad",
+        "Hugo Sotil (nacido en 1949): Legendario futbolista peruano que brilló en la selección nacional y en el FC Barcelona de España."
+      ],
+      "people": [
+        "• Abraham Valdelomar (1888-1919): Famoso escritor, poeta y periodista, considerado uno de los cuentistas más importantes del país y creador de la célebre obra El caballero Carmelo.",
+        "• José de la Torre Ugarte (1786-1831): Abogado y militar, recordado por ser el autor de la letra del Himno Nacional del Perú.",
+        "• Sérvulo Gutiérrez (1914-1961): Pintor y poeta bohemio, uno de los máximos exponentes de la plástica expresionista en el Perú.",
+        "• Domingo Elías Carbajo (1805-1867): Político, empresario y agricultor que llegó a ser Presidente del Perú durante el siglo XIX.",
+        "• Antonia Moreno de Cáceres (1848-1916): Heroína de la resistencia peruana durante la Guerra del Pacífico y esposa del Mariscal Andrés Avelino Cáceres.",
+        "• Hugo Sotil (nacido en 1949): Legendario futbolista peruano que brilló en la selección nacional y en el FC Barcelona de España."
+      ],
+      "other": []
+    },
+    "JUNIN": {
+      "title": "Junín",
+      "fields": [
+        [
+          "Capital",
+          "Huancayo"
+        ],
+        [
+          "Aniversario",
+          "1 de junio 1572 (fundación) y 16 de noviembre 1864 (creación política)"
+        ],
+        [
+          "Fundador",
+          "Don Jerónimo de Silva"
+        ],
+        [
+          "Antiguamente nombrada",
+          "Santísima Trinidad de Huancayo"
+        ],
+        [
+          "Altitud",
+          "4105 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Wariwillka / Tunanmarca"
+        ],
+        [
+          "Número de provincias",
+          "9"
+        ]
+      ],
+      "provinces": [
+        "Huancayo - Capital: Huancayo",
+        "Chanchamayo - Capital: La Merced",
+        "Chupaca - Capital: Chupaca",
+        "Concepción - Capital: Concepción",
+        "Jauja - Capital: Jauja",
+        "Junín - Capital: Junín",
+        "Satipo - Capital: Satipo",
+        "Tarma - Capital: Tarma",
+        "Yauli - Capital: La Oroya"
+      ],
+      "people": [
+        "•  Reconocida atleta olímpica y medallista de oro panamericana en maratón, nacida en el distrito de Junín.",
+        "• Alipio Ponce Vásquez: Heroico policía nacional (guardia civil) que se sacrificó en la guerra con Ecuador de 1941, nacido en Jauja.",
+        "• Flor Pucarina (Leonor García y García): Famosa cantante folclórica y exponente mayor de la música huanca, nacida en Huancayo.",
+        "• Zenobio Dagha Sivirichi: Célebre compositor y músico de huaynos y mulizas tradicionales, nacido en Pucará.",
+        "• Kimberly García: Destacada atleta peruana campeona mundial de marcha atlética, nacida en Huancayo.",
+        "• Edgardo Rivera Martínez: Notable escritor y educador peruano, autor de la novela País de Jauja, nacido en Jauja."
+      ],
+      "other": []
+    },
+    "LA LIBERTAD": {
+      "title": "La Libertad",
+      "fields": [
+        [
+          "Capital",
+          "Trujillo"
+        ],
+        [
+          "Aniversario",
+          "12 de febrero (creación política en 1821)."
+        ],
+        [
+          "Fundador",
+          "Fundada en 1534 por Diego de Almagro"
+        ],
+        [
+          "Antiguamente nombrada",
+          "Trujillo \"El primero donde se proclamó la independencia”"
+        ],
+        [
+          "Altitud",
+          "34 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Chan Chan (Cultura Chimú)"
+        ],
+        [
+          "Número de provincias",
+          "12"
+        ]
+      ],
+      "provinces": [
+        "Ascope (Capital: Ascope)",
+        "Bolívar (Capital: Bolívar)",
+        "Chepén (Capital: Chepén)",
+        "Gran Chimú (Capital: Cascas)",
+        "Julcán (Capital: Julcán)",
+        "Otuzco (Capital: Otuzco)",
+        "Pacasmayo (Capital: San Pedro de Lloc)",
+        "Pataz (Capital: Tayabamba)",
+        "Sánchez Carrión (Capital: Huamachuco)",
+        "Santiago de Chuco (Capital: Santiago de Chuco)",
+        "Trujillo (Capital: Trujillo)",
+        "Virú (Capital: Virú)."
+      ],
+      "people": [
+        "• César Vallejo (1892–1938): Famoso poeta y escritor, nacido en Santiago de Chuco. Es una de las grandes figuras de la literatura universal y autor de Los heraldos negros y Trilce.",
+        "• Víctor Raúl Haya de la Torre (1895–1979): Destacado político e ideólogo, nacido en Trujillo. Fundó la Alianza Popular Revolucionaria Americana (APRA).",
+        "• Ciro Alegría (1909–1967): Reconocido escritor y periodista, nacido en Huamachuco. Escribió novelas indigenistas fundamentales como El mundo es ancho y ajeno.",
+        "• Luis José de Orbegoso (1795–1847): Militar y político, nacido en Chuquito (Hacienda Chuquisongo, Otuzco). Fue Presidente del Perú entre 1833 y 1835.",
+        "• Abelardo Gamarra \"El Tunante\" (1852–1924): Escritor, periodista y compositor, nacido en Huamachuco. Es recordado por bautizar al baile nacional como la marinera.",
+        "• Luis Abanto Morales (1923–2017): Cantautor y compositor, nacido en Trujillo. Interpretó célebres canciones criollas y andinas como Cholo soy y Mambo de Machahuay."
+      ],
+      "other": []
+    },
+    "LAMBAYEQUE": {
+      "title": "Lambayeque",
+      "fields": [
+        [
+          "Capital",
+          "Chiclayo"
+        ],
+        [
+          "Aniversario",
+          "27 de diciembre 1820"
+        ],
+        [
+          "Fundador",
+          "Gregorio González de Cuenca"
+        ],
+        [
+          "Antiguamente nombrada",
+          "San Pedro de Lambayeque, Cuna de la Libertad"
+        ],
+        [
+          "Altitud",
+          "27 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Huaca Rajada – Sipán (Cultura Sicán/Lambayeque)"
+        ],
+        [
+          "Número de provincias",
+          "3"
+        ]
+      ],
+      "provinces": [
+        "Chiclayo (Capital: Chiclayo)",
+        "Lambayeque (Capital: Lambayeque)",
+        "Ferreñafe (Capital: Ferreñafe)"
+      ],
+      "people": [
+        "• José Abelardo Quiñones Gonzales: Héroe nacional de la aviación militar peruana, inmortalizado por su inmolación en el conflicto con Ecuador de 1941.",
+        "• Pedro Ruiz Gallo: Polímata, militar e inventor creador del gran reloj cívico que estuvo en la Exposición Nacional.",
+        "• Elías Aguirre Romero: Destacado marino que combatió y falleció heroicamente en el Combate de Angamos durante la Guerra del Pacífico.",
+        "• José Leonardo Ortiz Salcedo: Precursor de la independencia y prócer de las luchas libertarias en el norte del país.",
+        "• Manuel Antonio Mesones Muro: Destacado explorador y geógrafo reconocido por encontrar y promover el paso interandino hacia el río Marañón (el Abra de Porculla)."
+      ],
+      "other": []
+    },
+    "LIMA": {
+      "title": "Lima",
+      "fields": [
+        [
+          "Capital",
+          "Lima"
+        ],
+        [
+          "Aniversario",
+          "18 de enero de 1535"
+        ],
+        [
+          "Fundador",
+          "Francisco Pizarro"
+        ],
+        [
+          "Antiguamente nombrada",
+          "Ciudad de los Reyes"
+        ],
+        [
+          "Altitud",
+          "155 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Caral / Pachacámac"
+        ],
+        [
+          "Número de provincias",
+          "10"
+        ]
+      ],
+      "provinces": [
+        "Barranca - Capital: Barranca",
+        "Cajatambo - Capital: Cajatambo",
+        "Canta - Capital: Canta",
+        "Cañete - Capital: San Vicente de Cañete",
+        "Huaral - Capital: Huaral",
+        "Huarochirí - Capital: Matucana",
+        "Huaura - Capital: Huacho",
+        "Lima - Capital: Lima",
+        "Oyón - Capital: Oyón",
+        "Yauyos - Capital: Yauyos"
+      ],
+      "people": [
+        "• Santa Rosa de Lima (1586–1617): Primera santa católica de América y patrona de Lima, el Perú y las Indias.",
+        "• Micaela Villegas \"La Perricholi\" (1748–1819): Célebre actriz y figura de la época virreinal peruana.",
+        "Política y diplomacia",
+        "• Javier Pérez de Cuéllar (1920–2020): Abogado, diplomático y secretario general de la Organización de las Naciones Unidas (ONU) entre 1982 y 1991.",
+        "• Fernando Belaúnde Terry (1912–2002): Arquitecto y dos veces Presidente Constitucional del Perú.",
+        "• Alan García Pérez (1949–2019): Abogado y dos veces Presidente Constitucional del Perú.",
+        "Artes, literatura y cultura",
+        "• Fernando de Szyszlo (1925–2017): Pintor, escultor y uno de los máximos exponentes del arte abstracto en América Latina.",
+        "• Pancho Fierro (1807–1879): Pintor costumbrista cuyas acuarelas retrataron la vida limeña del siglo XIX.",
+        "• Mario Testino (nacido en 1954): Famoso fotógrafo de moda y retratista a nivel internacional."
+      ],
+      "other": []
+    },
+    "LORETO": {
+      "title": "Loreto",
+      "fields": [
+        [
+          "Capital",
+          "Iquitos"
+        ],
+        [
+          "Aniversario",
+          "26 de febrero 1864"
+        ],
+        [
+          "Fundador",
+          "Misioneros jesuitas"
+        ],
+        [
+          "Antiguamente nombrada",
+          "San Pablo de los Napeanos"
+        ],
+        [
+          "Altitud",
+          "104 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Cerámica Cumancaya"
+        ],
+        [
+          "Número de provincias",
+          "8"
+        ]
+      ],
+      "provinces": [
+        "Maynas: Iquitos (también capital del departamento)",
+        "Alto Amazonas: Yurimaguas",
+        "Datem del Marañón: San Lorenzo",
+        "Loreto: Nauta",
+        "Mariscal Ramón Castilla: Caballococha",
+        "Putumayo: San Antonio del Estrecho (El Estrecho)",
+        "Requena: Requena",
+        "Ucayali: Contamana"
+      ],
+      "people": [
+        "• Francisco Izquierdo Ríos: Reconocido escritor y docente nacido en el distrito de Leimebamba, con una obra profundamente ligada a la Amazonía peruana.",
+        "• Fernando Lores Tenazoa: Sargento segundo y héroe nacional nacido en Iquitos en 1906, recordado por su valor en el conflicto del Putumayo y la defensa de la soberanía en el trapecio amazónico.",
+        "• Pablo Amaringo: Famoso pintor y chamán nacido en Puerto Arturo (Ucayali, entonces parte de la jurisdicción o región) reconocido internacionalmente por su arte visionario inspirado en la ayahuasca.",
+        "• Luis Ángel Pinasco: Destacado locutor, actor y presentador de televisión peruano, nacido en Iquitos.",
+        "• Gino Ceccarelli: Pintor y artista plástico nacido en Iquitos, cuyas obras reflejan los mitos, la flora, la fauna y el alma de la selva amazónica.",
+        "• Arturo D. Hernández: Novelista loretano autor de obras clásicas de la literatura regional y amazónica como Sangama y Selva Tragadora."
+      ],
+      "other": []
+    },
+    "MADRE DE DIOS": {
+      "title": "Madre de Dios",
+      "fields": [
+        [
+          "Capital",
+          "Puerto Maldonado"
+        ],
+        [
+          "Aniversario",
+          "10 de julio 1902"
+        ],
+        [
+          "Fundador",
+          "Juan S. Villalta"
+        ],
+        [
+          "Antiguamente nombrada",
+          "Pueblo Viejo"
+        ],
+        [
+          "Altitud",
+          "186 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Pueblos Ese Eja, Harakbut, Matsigenka"
+        ],
+        [
+          "Número de provincias",
+          "3"
+        ]
+      ],
+      "provinces": [
+        "Tambopata: Puerto Maldonado",
+        "Manu: Villa Salvación",
+        "Tahuamanu: Iñapari"
+      ],
+      "people": [
+        "• Q'orianka Kilcher (padre): Aunque ella nació en Alemania, su padre Wachan Bajiyoperak Vega es un artista peruano nacido en Madre de Dios y de ascendencia quechua-harakmbet. Q'orianka es reconocida internacionalmente por actuar como Pocahontas en la película El nuevo mundo (2005).",
+        "• Jorge Ramírez Cardozo: Conocido como \"el Billarista\", fue un destacado futbolista y lateral derecho que brilló en el FBC Melgar de Arequipa y vistió la camiseta de la selección peruana.",
+        "• Héctor Sueyo Yumbuyo: Sociólogo e investigador hijo del sabio harakbut Antonio Sueyo Irangua (\"Sontone\"). Ha dedicado su labor a documentar y preservar la memoria e historia de los pueblos indígenas amazónicos.",
+        "• Guillermo Díaz Márquez: Personalidad notable nacida en la capital regional, Puerto Maldonado."
+      ],
+      "other": []
+    },
+    "MOQUEGUA": {
+      "title": "Moquegua",
+      "fields": [
+        [
+          "Capital",
+          "Moquegua"
+        ],
+        [
+          "Aniversario",
+          "25 de noviembre 1541"
+        ],
+        [
+          "Fundador",
+          "Pedro Cancino y Juan de la Torre"
+        ],
+        [
+          "Antiguamente nombrada",
+          "Villa de Santa Catalina de Guadalcázar del Valle de Moquegua"
+        ],
+        [
+          "Altitud",
+          "1410 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Cerro Baúl (Wari-Tiwanaku)"
+        ],
+        [
+          "Número de provincias",
+          "3"
+        ]
+      ],
+      "provinces": [
+        "Mariscal Nieto: Moquegua",
+        "General Sánchez Cerro: Omate",
+        "Ilo: Ilo"
+      ],
+      "people": [
+        "• Mercedes Cabello de Carbonera (1845–1909): Importante escritora y ensayista, precursora de la novela realista en el Perú, recordada por obras como Blanca Sol y El conspirador.",
+        "• Domingo Nieto Márquez (1803–1844): Militar y político, conocido como el \"Mariscal de Nieto\" y Gran Mariscal del Perú, destacado por su defensa de la legalidad y la Constitución.",
+        "• José Manuel Ubalde (1740–1810): Abogado y precursor de la independencia del Perú, famoso por liderar la conspiración de Cusco de 1805 junto a Gabriel Aguilar.",
+        "• Amparo Baluarte (1914–2012): Destacada poetisa y educadora, miembro de número de la Academia Peruana de la Lengua.",
+        "• Mariano Lino Urquieta (1862–1950): Reconocido médico, parlamentario y benefactor social de la región sur del país.",
+        "• Luis E. Valcárcel (1891–1987): Historiador, antropólogo y educador peruano, considerado el padre de la antropología peruana americana (aunque a menudo vinculado a Moquegua por raíces y estudios sobre la región).",
+        "• Hebert de la Flor Angulo (1918–...): Destacado educador e intelectual moqueguano"
+      ],
+      "other": []
+    },
+    "PASCO": {
+      "title": "Pasco",
+      "fields": [
+        [
+          "Capital",
+          "Cerro de Pasco"
+        ],
+        [
+          "Aniversario",
+          "20 de octubre de 1578"
+        ],
+        [
+          "Fundador",
+          "colonizadores y mineros españoles"
+        ],
+        [
+          "Antiguamente nombrada",
+          "Villa de Pasco, Asiento minero de San Esteban de Yauricocha, Ciudad Real de Minas."
+        ],
+        [
+          "Altitud",
+          "4380 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Bosque de Piedras de Huayllay (vinculado a la cultura Yaro)"
+        ],
+        [
+          "Número de provincias",
+          "3"
+        ]
+      ],
+      "provinces": [
+        "Pasco: Cerro de Pasco (ubicada en el distrito de Chaupimarca).",
+        "Daniel Alcides Carrión: Yanahuanca.",
+        "Oxapampa: Oxapampa."
+      ],
+      "people": [
+        "• Daniel Alcides Carrión (1857-1885): Nació en Cerro de Pasco. Es el mártir de la medicina peruana y héroe nacional por inyectarse sangre con verruga peruana para estudiar la enfermedad.",
+        "• Antonio Brack Egg (1940-2014): Nació en Oxapampa. Fue un destacado ecologista, investigador y el primer ministro del Ambiente del Perú.",
+        "• César Pérez Arauco (1937-): Nació en Cerro de Pasco. Es un reconocido escritor, profesor e historiador pasqueño.",
+        "• Elías Malpartida Franco (1844-1922): Nació en Cerro de Pasco. Fue un empresario minero y político que ocupó el cargo de alcalde de Lima y ministro de Hacienda.",
+        "• Luis Raimundo Pajuelo Frías (1945-): Nació en Cerro de Pasco. Destacado escritor y educador de la región."
+      ],
+      "other": []
+    },
+    "PIURA": {
+      "title": "Piura",
+      "fields": [
+        [
+          "Capital",
+          "Piura"
+        ],
+        [
+          "Aniversario",
+          "15 de agosto de 1532"
+        ],
+        [
+          "Fundador",
+          "Francisco Pizarro"
+        ],
+        [
+          "Antiguamente nombrada",
+          "San Miguel de la Nueva Castilla o San Miguel de Tangarará, San Miguel del Villar de Piura."
+        ],
+        [
+          "Altitud",
+          "22 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Narihualá (Cultura Tallán) / Complejo Vicús"
+        ],
+        [
+          "Número de provincias",
+          "8"
+        ]
+      ],
+      "provinces": [
+        "Ayabaca: Ayabaca",
+        "Huancabamba: Huancabamba",
+        "Morropón: Chulucanas",
+        "Paita: Paita",
+        "Piura: Piura",
+        "Sechura: Sechura",
+        "Sullana: Sullana",
+        "Talara: Pariñas"
+      ],
+      "people": [
+        "• Miguel Grau Seminario: Conocido como el \"Caballero de los Mares\", fue un célebre marino militar y almirante peruano, máximo héroe de la Marina de Guerra del Perú en la Guerra del Pacífico.",
+        "• Juan Velasco Alvarado: Militar y político peruano, quien ejerció como Presidente del Perú tras liderar el golpe de Estado de 1968.",
+        "• Cayetano Heredia: Destacado médico peruano y precursor de la medicina nacional, cuyo nombre lleva la prestigiosa universidad peruana.",
+        "• Ignacio Merino: Reconocido pintor del siglo XIX, considerado uno de los máximos exponentes de la plástica y la pintura romántica en el Perú.",
+        "• Luis Miguel Sánchez Cerro: Militar y político que se desempeñó como Presidente constitucional del Perú a inicios de la década de 1930.",
+        "• Luis Montero: Famoso pintor académico del siglo XIX, célebre por su monumental obra Los funerales de Atahualpa."
+      ],
+      "other": []
+    },
+    "PUNO": {
+      "title": "Puno",
+      "fields": [
+        [
+          "Capital",
+          "Puno"
+        ],
+        [
+          "Aniversario",
+          "4 de noviembre 1668"
+        ],
+        [
+          "Fundador",
+          "Pedro Antonio Fernández de Castro (Conde de Lemos)"
+        ],
+        [
+          "Antiguamente nombrada",
+          "San Juan Bautista de Puno, San Carlos de Puno, Villa de la Inmaculada Concepción y San Carlos de Puno"
+        ],
+        [
+          "Altitud",
+          "3845 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Sillustani (Cultura Colla)"
+        ],
+        [
+          "Número de provincias",
+          "13"
+        ]
+      ],
+      "provinces": [
+        "Azángaro - Azángaro",
+        "Carabaya - Macusani",
+        "Chucuito - Juli",
+        "El Collao - Ilave",
+        "Huancané - Huancané",
+        "Lampa - Lampa",
+        "Melgar - Ayaviri",
+        "Moho - Moho",
+        "Puno - Puno",
+        "San Antonio de Putina - Putina",
+        "San Román - Juliaca",
+        "Sandia - Sandia",
+        "Yunguyo - Yunguyo"
+      ],
+      "people": [
+        "•  Destacado educador, maestro y reformador de la escuela peruana.",
+        "• José Domingo Choquehuanca (1792-1854): Abogado, prócer y político que pronunció la célebre arenga a Simón Bolívar.",
+        "• Gamaliel Churata (1897-1969): Pseudónimo de Arturo Pablo Peralta Miranda, influyente escritor, periodista y filósofo, líder del grupo Orkopata.",
+        "• Miguel de San Román (1804-1863): Militar y político que llegó a ser presidente del Perú.",
+        "• Carlos Oquendo de Amat (1905-1936): Renombrado poeta vanguardista, autor del poemario 5 metros de poemas.",
+        "• Manuel Núñez Butrón (1900-1952): Médico pionero de la salud pública rural en el Perú y creador del grupo Kollasuyo.",
+        "• Teodoro Valcárcel (1900-1942): Notable compositor y músico indigenista."
+      ],
+      "other": []
+    },
+    "SAN MARTIN": {
+      "title": "San Martín",
+      "fields": [
+        [
+          "Capital",
+          "Moyobamba"
+        ],
+        [
+          "Aniversario",
+          "4 de septiembre 1906"
+        ],
+        [
+          "Fundador",
+          "Don José de San Martín"
+        ],
+        [
+          "Antiguamente nombrada",
+          "Santiago de los Ocho Valles de Moyobamba fue fundada el 25 de julio de 1540"
+        ],
+        [
+          "Altitud",
+          "860 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Gran Pajatén"
+        ],
+        [
+          "Número de provincias",
+          "10"
+        ]
+      ],
+      "provinces": [
+        "Bellavista —Bellavista",
+        "El Dorado —San José de Sisa",
+        "Huallaga —Saposoa",
+        "Lamas —Lamas",
+        "Mariscal Cáceres —Juanjuí",
+        "Moyobamba —Moyobamba",
+        "Picota —Picota",
+        "Rioja —Rioja",
+        "San Martín —Tarapoto",
+        "Tocache —Tocache"
+      ],
+      "people": [
+        "Literatura y Educación",
+        "• Francisco Izquierdo Ríos: Nacido en Saposoa en 1910. Fue un célebre escritor y docente, autor de obras fundamentales de la narrativa infantil y amazónica como El bagrecico.",
+        "• Luis Hernán Ramírez Mendoza: Nacido en Moyobamba en 1926. Destacó notablemente como lingüista, literato y catedrático universitario.",
+        "• Jenaro Ernesto Herrera Torres: Nacido en Moyobamba en 1861. Fue un escritor, abogado, periodista y investigador geográfico de la Amazonía.",
+        "• Adrián Doroteo Mendoza Ocampo: Nacido en Moyobamba en 1953. Se desempeñó como profesor y escritor enfocado en la cultura local.",
+        "Héroes y Precursores",
+        "• Emilio San Martín Peña: Nacido en Moyobamba en 1861. Fue un valiente marino y héroe de la Guerra del Pacífico que ofrendó su vida heroicamente en el combate del Callao a bordo de la lancha Independencia.",
+        "• Eduardo Peña Meza: Nacido en Juanjui en 1886. Fue un destacado político, explorador y promotor clave de la educación en la selva del Perú."
+      ],
+      "other": []
+    },
+    "TACNA": {
+      "title": "Tacna",
+      "fields": [
+        [
+          "Capital",
+          "Tacna"
+        ],
+        [
+          "Aniversario",
+          "28 de agosto 1929"
+        ],
+        [
+          "Fundador",
+          "Diego de Almagro"
+        ],
+        [
+          "Antiguamente nombrada",
+          "San Pedro de Takana"
+        ],
+        [
+          "Altitud",
+          "562 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Petroglifos de Miculla"
+        ],
+        [
+          "Número de provincias",
+          "4"
+        ]
+      ],
+      "provinces": [
+        "Tacna –Tacna",
+        "Candarave –Candarave",
+        "Jorge Basadre –Locumba",
+        "Tarata –Tarata"
+      ],
+      "people": [
+        "• José María Barreto Bustíos (16 de noviembre de 1875 – 11 de agosto de 1948) fue un diplomático peruano en Suiza, mejor conocido por emitir pasaportes para salvar judíos durante la Segunda Guerra Mundial.",
+        "• Jorge Basadre Grohmann: Reconocido historiador, investigador y autor de la Historia de la República del Perú. Nació en 1903.",
+        "• Francisco de Paula González Vigil: Religioso, político y escritor. Es célebre por su defensa de la legalidad y por conseguir el título de \"Heroica Ciudad\" para Tacna.",
+        "• Francisco Antonio de Zela: Militar y líder del primer grito libertario del Perú en Tacna (1811), prócer de la independencia nacional.",
+        "• Gregorio Albarracín Lanchipa: Militar conocido como el \"Centauro de las Tacanas\", héroe de la Guerra del Pacífico.",
+        "• Modesto Molina Paniagua: Periodista, poeta y escritor que fundó el diario El Comercio de Tacna y defendió la peruanidad de la zona.",
+        "• José Federico Barreto Bustíos (Tacna, 8 de febrero de 1868-Marsella, 30 de octubre de 1929) fue un poeta peruano conocido como «El cantor del cautiverio» o «El poeta del cautiverio»."
+      ],
+      "other": []
+    },
+    "TUMBES": {
+      "title": "Tumbes",
+      "fields": [
+        [
+          "Capital",
+          "Tumbes"
+        ],
+        [
+          "Aniversario",
+          "7 de enero de 1821"
+        ],
+        [
+          "Fundador",
+          "Francisco Pizarro"
+        ],
+        [
+          "Antiguamente nombrada",
+          "Nueva Valencia del Mar del Sur"
+        ],
+        [
+          "Altitud",
+          "7 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Complejo Cabeza de Vaca"
+        ],
+        [
+          "Número de provincias",
+          "3"
+        ]
+      ],
+      "provinces": [
+        "Tumbes - Tumbes.",
+        "Contralmirante Villar - Zorritos.",
+        "Zarumilla - Zarumilla."
+      ],
+      "people": [
+        "• Félix Hugo Noblecilla Purizaga: Reconocido maestro, escritor, poeta e impulsor de la cultura y la ecoliteratura en Tumbes, nacido el 1 de abril de 1958.",
+        "• Andrés Araujo Morán: Marino militar que participó con valentía en la Guerra del Pacífico durante el Combate de Angamos.",
+        "• Juan Valer Sandoval: Militar peruano y héroe nacional recordado por su valiosa participación en el conflicto del Cenepa."
+      ],
+      "other": []
+    },
+    "UCAYALI": {
+      "title": "Ucayali",
+      "fields": [
+        [
+          "Capital",
+          "Pucallpa"
+        ],
+        [
+          "Aniversario",
+          "13 de octubre de 1888"
+        ],
+        [
+          "Fundador",
+          "Eduardo del Águila Tello y a los ciudadanos brasileños Agustín Cáuper Videira y Antonio Maya de Brito."
+        ],
+        [
+          "Antiguamente nombrada",
+          "Pucallpa: “Tierra Colorada”"
+        ],
+        [
+          "Altitud",
+          "154 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Arte kené shipibo-konibo"
+        ],
+        [
+          "Número de provincias",
+          "4"
+        ]
+      ],
+      "provinces": [
+        "Coronel Portillo - Pucallpa",
+        "Atalaya - Atalaya",
+        "Padre Abad - Aguaytía",
+        "Purús - Puerto Esperanza"
+      ],
+      "people": [
+        "• Pablo Amaringo (1938–2009): Reconocido pintor y curandero uschaya, famoso a nivel internacional por su arte usco-ayor que plasma visiones de la ayahuasca y la selva amazónica.",
+        "• Ruth Karina: Famosa cantante de tecnocumbia peruana, muy popular por difundir la música y alegría de la selva en todo el país.",
+        "• Hernán Vidaurre: Conocido humorista, imitador y actor de la radio y televisión peruana.",
+        "• Jorge Nájar (1946): Destacado poeta, periodista y traductor nacido en Pucallpa, radicado en Europa desde hace varias décadas.",
+        "• Lastenia Canayo (Pecon Quena): Artista y pintora del pueblo shipibo-konibo, reconocida por su labor tallando y retratando a los espíritus de la naturaleza (Dueños).",
+        "• Roldán Pinedo (Shoyan Shëca): Pintor y artista shipibo nacido en la comunidad de San Francisco, cuyas obras reflejan la memoria y cosmovisión de su pueblo."
+      ],
+      "other": []
+    },
+    "CALLAO": {
+      "title": "Callao",
+      "fields": [
+        [
+          "Capital",
+          "Callao"
+        ],
+        [
+          "Aniversario",
+          "20 de agosto 1836"
+        ],
+        [
+          "Fundador",
+          "Andrés de Santa Cruz"
+        ],
+        [
+          "Antiguamente nombrada",
+          "Puerto de Lima, Villa del Callao, Callao de la Mar, el Puerto del Callao, Provincia Litoral del Callao"
+        ],
+        [
+          "Altitud",
+          "5 msnm"
+        ],
+        [
+          "Patrimonio Cultural",
+          "Fortaleza del Real Felipe"
+        ],
+        [
+          "Número de provincias",
+          "1"
+        ]
+      ],
+      "provinces": [
+        "Callao - Callao"
+      ],
+      "people": [
+        "• Amy Gutiérrez: Destacada cantante y personalidad de la música nacional.",
+        "• Antonio Miró Quesada de la Guerra: Importante periodista, abogado, diplomático y político peruano, recordado principalmente por dirigir el diario El Comercio durante tres décadas y por su trágico deceso.",
+        "• Néstor Gambetta: Militar y político chalaco que participó en la vida pública del país, historiador y promotor cultural.",
+        "• Manuel Cipriano Dulanto: Marino y héroe naval peruano nacido en el Callao, participó desde joven en las batallas por la emancipación del Perú y combatió junto a los libertadores José de San Martín y Simón Bolívar.",
+        "• Pedro Suárez-Vértiz: Icónico cantautor del rock peruano.",
+        "• Yma Sumac: Famosa soprano internacional de tesitura excepcional, recordada mundialmente."
+      ],
+      "other": []
+    }
+  }
+}
